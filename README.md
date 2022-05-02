@@ -10,7 +10,7 @@ This tool provides a way of calibrating *perceived depth* to roughly match the *
 
 This does not calibrate the positional error of the tracking, the accuracy of the board edge alignment or anything besides *perceived depth*.
 
-# Does does it change the perceived depth? 
+# How does it change the perceived depth? 
 The stereo pair (left / right) for each eye is shifted inward or outward away from your nose. The amount it is shifted in UV space is defined by the very small number in the lower right hand of the calibration screen.
 
 # Images
