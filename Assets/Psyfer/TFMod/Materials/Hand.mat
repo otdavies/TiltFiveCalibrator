@@ -79,9 +79,9 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _LineCount: 100
-    - _LineFalloff: 0.32
-    - _LineSpeed: 0.03
+    - _LineCount: 200
+    - _LineFalloff: 0.397
+    - _LineSpeed: 0.0106
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -92,7 +92,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0, g: 0.38715625, b: 0.57547164, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &7446548053000246101
